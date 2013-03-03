@@ -1,3 +1,5 @@
+![](Will_Smith-Big_Willie_Style-Frontal.jpeg)
+
 This is a ridiculous presentation system that works great for
 creative, hurried people. See [the demo](http://macwright.org/big)
 for an example of it working.
